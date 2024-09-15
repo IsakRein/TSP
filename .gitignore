@@ -1,0 +1,9 @@
+.vscode
+venv
+.DS_Store
+build/*
+local/*
+creds.json
+a
+a.out
+tsp
